@@ -15,8 +15,8 @@ rahat.rafiq@colorado.edu
 https://sites.google.com/site/rahatibnrafiq/
 
 # Current Funding
-Teaching Assistantship for 2013-2014
-Teaching Assistantship for 2014-2015
+* Teaching Assistantship for 2013-2014
+* Teaching Assistantship for 2014-2015
 
 # PhD Program
 
