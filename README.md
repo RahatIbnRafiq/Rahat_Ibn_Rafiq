@@ -9,7 +9,7 @@ Rahat Ibn Rafiq
 rahat.rafiq@colorado.edu
 
 ## Photo
-![profile photo](files/1E3R3Zg4DWDtF4Sl_8kyXZ7jD44yHQjtfEAX-COsXsBE-photo-0.png)
+![profile photo](1E3R3Zg4DWDtF4Sl_8kyXZ7jD44yHQjtfEAX-COsXsBE-photo-0.png)
 
 ## Website
 https://sites.google.com/site/rahatibnrafiq/
