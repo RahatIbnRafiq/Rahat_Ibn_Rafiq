@@ -40,7 +40,7 @@ Professor Shivakant Mishra
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
 | CSCI 5606 Principles of Numerical Computation | Fall 2013 | NA  | no | yes|
-| CSCI 5673 Distributed Systems | Fall {2013 | NA  | no | yes|
+| CSCI 5673 Distributed Systems | Fall 2013 | NA  | no | yes|
 | CSCI 6000 Intro CSCI PhD Program | Fall 2013 | NA  | yes | no|
 | CSCI 6268 Network Secirity | Spring 2014 | NA  | yes | no|
 | CSCI 7000 Current Topic in CS (Social Computing) | Spring 2014 | NA | yes | no|
