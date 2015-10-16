@@ -63,9 +63,9 @@ Professor Shivakant Mishra
 
 * Rahat Ibn Rafiq, Homa Hosseinmardi, Sabrina Mattson, Richard Han, Qn Lv, Shivakant Mishra, Careful what you share in six seconds: Detecting cyberbullying instances in Vine, ASONAM 2015.
 
-* Multi-modal Fusion for Flasher Detection in a Mobile Video Chat Application. (Lei Tian, Rahat Ibn Rafiq, Shaosong Li, Richard Han, Qin Lv, Shivakant Mishra) (to be appeared in MOBIQUITOUS 2014)
+* Multi-modal Fusion for Flasher Detection in a Mobile Video Chat Application. (Lei Tian, Rahat Ibn Rafiq, Shaosong Li, Richard Han, Qin Lv, Shivakant Mishra) in MOBIQUITOUS 2014 (Best Paper Nomination)
 
-* A Comparison of Common Users across Instagram and Ask.fm to Better Understand Cyberbullying (Homa Hosseinmardi,  Rahat Ibn Rafiq,  Shaosong Li,  Zhili Yang,  Richard Han,  Shivakanat Mishra,  Qin Lv) (to be appeared in SocialCom 2014)
+* A Comparison of Common Users across Instagram and Ask.fm to Better Understand Cyberbullying (Homa Hosseinmardi,  Rahat Ibn Rafiq,  Shaosong Li,  Zhili Yang,  Richard Han,  Shivakanat Mishra,  Qin Lv) in SocialCom 2014
 
 * Polynomial Time Approximation Scheme for t-Latency Bounded Information propagation Problem in Heterogeneous Wireless Networks. (Rahat Ibn Rafiq, Rahman Farhan, Md. Saidur Rahman)  ( in ISWPC 2013)
   
