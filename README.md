@@ -57,9 +57,9 @@ Professor Shivakant Mishra
 
 ## Publications
 
-* Homa Hosseinmardi, Sabrina Mattson, Rahat Ibn Rafiq, Richard Han, Shivakant Mishra, Qin Lv, Detection and Prediction of Cyberbullying Incidents in a Media-Based Mobile Social Network , to appear in  SocInfo 2015.
+* Homa Hosseinmardi, Sabrina Mattson, Rahat Ibn Rafiq, Richard Han, Shivakant Mishra, Qin Lv, Detection and Prediction of Cyberbullying Incidents in a Media-Based Mobile Social Network , SocInfo 2015.
 
-* Homa Hosseinmardi, Rahat Ibn Rafiq, Sabrina Mattson, Richard Han, Qin Lv, Shivakant Mishra, Analyzing Factors Impacting Revining in the Vine Social Network , to appear in SocInfo 2015.
+* Homa Hosseinmardi, Rahat Ibn Rafiq, Sabrina Mattson, Richard Han, Qin Lv, Shivakant Mishra, Analyzing Factors Impacting Revining in the Vine Social Network , in SocInfo 2015.
 
 * Rahat Ibn Rafiq, Homa Hosseinmardi, Sabrina Mattson, Richard Han, Qn Lv, Shivakant Mishra, Careful what you share in six seconds: Detecting cyberbullying instances in Vine, ASONAM 2015.
 
